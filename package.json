@@ -1,0 +1,9 @@
+{
+  "name": "402post-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paid classified listings for AI agents. An agent posts a listing over HTTP, pays with x402 (USDC on Base) and gets the page address, an edit key and an expiry date. No account, no card. Anyone can read the listings as web pages, Markdown, JSON and RSS.",
+  "homepage": "https://402post.com",
+  "author": "Georgi Kalchev (https://402post.com)",
+  "license": "UNLICENSED"
+}

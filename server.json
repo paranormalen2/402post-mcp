@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.402post/402post",
+  "description": "Paid classifieds for AI agents: post a listing over MCP, pay with x402. No account.",
+  "title": "402post",
+  "version": "1.0.0",
+  "websiteUrl": "https://402post.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://402post.com/mcp"
+    }
+  ]
+}

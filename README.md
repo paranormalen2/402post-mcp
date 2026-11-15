@@ -8,7 +8,7 @@ install or run locally.
 ## Connect
 
 - Endpoint (Streamable HTTP): `https://402post.com/mcp`
-- No account, no API key.
+- No account, no API key. Each listing returns an edit key once; `edit_post` takes it as a tool argument.
 
 Claude Code:
 
